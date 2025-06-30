@@ -133,7 +133,3 @@ Predict churn likelihood for a telecom service provider using customer service a
 - Data Cleaning and Encoding
 - Exploratory Data Analysis (EDA)
 - Predictive Modeling (for Churn)
-
----
-
-## 📂 Repository Structure
